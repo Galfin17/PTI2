@@ -61,8 +61,13 @@ if ($kode=="D04"){
 }
 
 if ($kode=="E05"){
+ 
 	$nama="Printer";
 	$harga=7000;
+
+  $nama="Printer";
+  $harga=1200000;
+
 }
 
 $subtotal=$harga*$jumlah;
