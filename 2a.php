@@ -80,13 +80,13 @@ if ($kode=="F06"){
 	$harga=20000000;
 
 
-if ($kode=="E05"){
+if ($kode=="G07"){
  
-	$nama="Printer";
-	$harga=7000;
+	$nama="Kertas HVS";
+	$harga=70000;
 
-  $nama="Printer";
-  $harga=1200000;
+  $nama="Kertas HVS";
+  $harga=70000;
 
 }
 
