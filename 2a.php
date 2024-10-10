@@ -58,6 +58,10 @@ if ($kode=="D04"){
 	$nama="Mouse Pad";
 	$harga=5000;
 }
+if ($kode=="E05"){
+	$nama="Monitor 50 X 120";
+	$harga=20000000;
+}
 
 $subtotal=$harga*$jumlah;
 if ($subtotal>=100000){
