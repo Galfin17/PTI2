@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Hitung Penjualan Barang</title>
+</head>
+<body>
+	<div align="center"><br />DATA DIRI</div> <br /><br />
+<form id="form1" name="form1" method="post" action="2a.php">
+  <table width="500" border="1" align="center">
+        <tr>
+          <td>NAMA </td>
+          <td>:</td>
+          <td>TRYANA ADIGUMILAR</td>
+        </tr>
+        <tr>
+          <td>NIM </td>
+          <td>:</td>
+          <td>10122061</td>
+        </tr>
+        <tr>
+          <td>KELAS </td>
+          <td>:</td>
+          <td>IF2</td>
+        </tr>
+        <tr>
+          <td>SEMESTER</td>
+          <td>:</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>STATUS</td>
+          <td>:</td>
+          <td>MAHASISWA</td>
+        </tr>
+        
+       
+      </table>
+</table>
+</center>
+<p>&nbsp;</p>
+</body>
+</html>
